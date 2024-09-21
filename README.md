@@ -1,17 +1,3 @@
-# dnz_healthy_life
+# DNZ Healthy Life # 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# dnz_healthy_life
+É um aplicativo inovador, projetado para transformar sua jornada em direção a um estilo de vida mais saudável e ativo. Com uma interface intuitiva e recursos personalizados, o app oferece tudo o que você precisa para alcançar seus objetivos de fitness.
